@@ -29,7 +29,7 @@ I take AI/ML and robotics projects from idea to working system, **end-to-end** �
 
 - 🧠 **Head of Department, AI/ML — HyperNova Technology** — technical strategy, project direction, and recruitment for the department
 - 🚀 **Selected — Sarvam AI Startup Program** (for StudyMate AI)
-- 📰 **Featured twice in *The Telegraph* — "The Young Metro"**
+- 📰 **Featured thrice in *The Telegraph* — "The Young Metro"**
 - 🏆 **10+ event wins** across AI/ML, Web Development, and Robotics
 - 🤝 **Member — Claude Community India**
 
