@@ -1,9 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1F2937&height=180&section=header&text=Abhinav%20Gupta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Research%20Engineer%20(in%20training)%20%C2%B7%20Robotics%20%26%20Full-Stack%20AI&descAlignY=58&descSize=17&animation=fadeIn" alt="header banner"/>
+<img width="100%" height="160" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&animation=fadeIn" alt="header banner"/>
+
+<h1>Abhinav Gupta</h1>
+<h3>AI/ML Research Engineer (in training) · Robotics & Full-Stack AI</h3>
 
 <a href="https://linkedin.com/in/egoistic-coderx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Shipping+AI+end-to-end%2C+solo.;Models+%E2%86%92+Edge+Hardware+%E2%86%92+Shipped+Products.;Inference+pipelines+%2B+embedded+systems+%2B+full-stack.;Long-term+target%3A+AI%2FML+Research+Engineering." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Shipping+AI+end-to-end%2C+solo.;Models+to+Edge+Hardware+to+Shipped+Products.;Inference+pipelines+%2B+embedded+systems+%2B+full-stack.;Long-term+target%3A+AI%2FML+Research+Engineering." alt="typing animation" />
 </a>
 
 📍 Kolkata, India&nbsp;&nbsp;·&nbsp;&nbsp;🎓 M. P. Birla Foundation Higher Secondary School (Class 9, ICSE)&nbsp;&nbsp;·&nbsp;&nbsp;14 y/o
